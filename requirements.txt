@@ -1,0 +1,25 @@
+# FMCG Streaming Data Analytics - Python Dependencies
+# Tested with Python 3.13.1 on Windows
+
+# Kafka client - kafka-python-ng is the actively maintained fork
+# compatible with Python 3.12+ (original kafka-python is unmaintained)
+kafka-python-ng==2.2.3
+
+# MongoDB driver
+pymongo==4.10.1
+
+# Data processing
+pandas==2.2.3
+
+# Dashboard
+streamlit==1.39.0
+plotly==5.24.1
+
+# Report generation
+python-docx==1.1.2
+
+# Testing
+pytest==8.3.3
+
+# Environment configuration
+python-dotenv==1.0.1
