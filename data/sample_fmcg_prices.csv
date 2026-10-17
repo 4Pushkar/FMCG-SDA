@@ -1,0 +1,128 @@
+price_id,product_id,product_name,store_id,selling_price,effective_date,change_reason
+PRC-00001,P001,Lays Classic Chips,S01,30.0,2026-09-01,Initial Price
+PRC-00002,P001,Lays Classic Chips,S01,30.17,2026-09-30,Supplier Cost Change
+PRC-00003,P001,Lays Classic Chips,S01,29.13,2026-09-14,Seasonal Adjustment
+PRC-00004,P001,Lays Classic Chips,S02,30.0,2026-09-01,Initial Price
+PRC-00005,P001,Lays Classic Chips,S02,28.74,2026-09-30,Competitive Pricing
+PRC-00006,P001,Lays Classic Chips,S02,32.38,2026-09-16,Supplier Cost Change
+PRC-00007,P001,Lays Classic Chips,S03,30.0,2026-09-01,Initial Price
+PRC-00008,P001,Lays Classic Chips,S03,30.22,2026-09-11,Competitive Pricing
+PRC-00009,P001,Lays Classic Chips,S03,30.88,2026-09-12,Promotional Discount
+PRC-00010,P001,Lays Classic Chips,S04,30.0,2026-09-01,Initial Price
+PRC-00011,P001,Lays Classic Chips,S04,29.06,2026-09-09,Competitive Pricing
+PRC-00012,P001,Lays Classic Chips,S04,30.89,2026-09-12,Seasonal Adjustment
+PRC-00013,P001,Lays Classic Chips,S05,30.0,2026-09-01,Initial Price
+PRC-00014,P001,Lays Classic Chips,S05,29.51,2026-09-28,Seasonal Adjustment
+PRC-00015,P001,Lays Classic Chips,S05,28.77,2026-09-08,Supplier Cost Change
+PRC-00016,P002,Coca-Cola 500ml,S01,40.0,2026-09-01,Initial Price
+PRC-00017,P002,Coca-Cola 500ml,S01,42.66,2026-09-06,Promotional Discount
+PRC-00018,P002,Coca-Cola 500ml,S01,41.33,2026-09-26,Seasonal Adjustment
+PRC-00019,P002,Coca-Cola 500ml,S02,40.0,2026-09-01,Initial Price
+PRC-00020,P002,Coca-Cola 500ml,S02,38.79,2026-09-14,Supplier Cost Change
+PRC-00021,P002,Coca-Cola 500ml,S02,40.99,2026-09-18,Festive Offer
+PRC-00022,P002,Coca-Cola 500ml,S03,40.0,2026-09-01,Initial Price
+PRC-00023,P002,Coca-Cola 500ml,S03,40.27,2026-09-21,Seasonal Adjustment
+PRC-00024,P002,Coca-Cola 500ml,S03,39.17,2026-09-23,Competitive Pricing
+PRC-00025,P002,Coca-Cola 500ml,S04,40.0,2026-09-01,Initial Price
+PRC-00026,P002,Coca-Cola 500ml,S04,40.95,2026-09-09,Supplier Cost Change
+PRC-00027,P002,Coca-Cola 500ml,S04,41.55,2026-09-16,Competitive Pricing
+PRC-00028,P002,Coca-Cola 500ml,S05,40.0,2026-09-01,Initial Price
+PRC-00029,P002,Coca-Cola 500ml,S05,43.18,2026-09-26,Seasonal Adjustment
+PRC-00030,P003,Maggi 2-Min Noodles,S01,14.0,2026-09-01,Initial Price
+PRC-00031,P003,Maggi 2-Min Noodles,S01,14.85,2026-09-23,Supplier Cost Change
+PRC-00032,P003,Maggi 2-Min Noodles,S01,14.83,2026-09-08,Supplier Cost Change
+PRC-00033,P003,Maggi 2-Min Noodles,S02,14.0,2026-09-01,Initial Price
+PRC-00034,P003,Maggi 2-Min Noodles,S02,14.31,2026-09-11,Competitive Pricing
+PRC-00035,P003,Maggi 2-Min Noodles,S03,14.0,2026-09-01,Initial Price
+PRC-00036,P003,Maggi 2-Min Noodles,S03,14.57,2026-09-15,Seasonal Adjustment
+PRC-00037,P003,Maggi 2-Min Noodles,S04,14.0,2026-09-01,Initial Price
+PRC-00038,P003,Maggi 2-Min Noodles,S04,13.45,2026-09-21,Competitive Pricing
+PRC-00039,P003,Maggi 2-Min Noodles,S04,13.64,2026-09-29,Seasonal Adjustment
+PRC-00040,P003,Maggi 2-Min Noodles,S05,14.0,2026-09-01,Initial Price
+PRC-00041,P003,Maggi 2-Min Noodles,S05,14.61,2026-09-06,Festive Offer
+PRC-00042,P004,Parle-G Biscuits,S01,10.0,2026-09-01,Initial Price
+PRC-00043,P004,Parle-G Biscuits,S01,10.01,2026-09-21,Festive Offer
+PRC-00044,P004,Parle-G Biscuits,S02,10.0,2026-09-01,Initial Price
+PRC-00045,P004,Parle-G Biscuits,S02,10.19,2026-09-21,Competitive Pricing
+PRC-00046,P004,Parle-G Biscuits,S02,9.55,2026-09-06,Seasonal Adjustment
+PRC-00047,P004,Parle-G Biscuits,S03,10.0,2026-09-01,Initial Price
+PRC-00048,P004,Parle-G Biscuits,S03,9.56,2026-09-29,Seasonal Adjustment
+PRC-00049,P004,Parle-G Biscuits,S03,10.55,2026-09-12,Festive Offer
+PRC-00050,P004,Parle-G Biscuits,S04,10.0,2026-09-01,Initial Price
+PRC-00051,P004,Parle-G Biscuits,S04,10.63,2026-09-27,Festive Offer
+PRC-00052,P004,Parle-G Biscuits,S04,10.46,2026-09-10,Promotional Discount
+PRC-00053,P004,Parle-G Biscuits,S05,10.0,2026-09-01,Initial Price
+PRC-00054,P004,Parle-G Biscuits,S05,10.46,2026-09-07,Competitive Pricing
+PRC-00055,P005,Amul Butter 100g,S01,56.0,2026-09-01,Initial Price
+PRC-00056,P005,Amul Butter 100g,S01,59.8,2026-09-21,Festive Offer
+PRC-00057,P005,Amul Butter 100g,S02,56.0,2026-09-01,Initial Price
+PRC-00058,P005,Amul Butter 100g,S02,58.31,2026-09-13,Promotional Discount
+PRC-00059,P005,Amul Butter 100g,S03,56.0,2026-09-01,Initial Price
+PRC-00060,P005,Amul Butter 100g,S03,57.81,2026-09-11,Supplier Cost Change
+PRC-00061,P005,Amul Butter 100g,S04,56.0,2026-09-01,Initial Price
+PRC-00062,P005,Amul Butter 100g,S04,57.65,2026-09-20,Festive Offer
+PRC-00063,P005,Amul Butter 100g,S05,56.0,2026-09-01,Initial Price
+PRC-00064,P005,Amul Butter 100g,S05,54.03,2026-09-09,Festive Offer
+PRC-00065,P006,Surf Excel Detergent 1kg,S01,190.0,2026-09-01,Initial Price
+PRC-00066,P006,Surf Excel Detergent 1kg,S01,200.37,2026-09-08,Competitive Pricing
+PRC-00067,P006,Surf Excel Detergent 1kg,S02,190.0,2026-09-01,Initial Price
+PRC-00068,P006,Surf Excel Detergent 1kg,S02,197.26,2026-09-29,Supplier Cost Change
+PRC-00069,P006,Surf Excel Detergent 1kg,S02,204.6,2026-09-09,Festive Offer
+PRC-00070,P006,Surf Excel Detergent 1kg,S03,190.0,2026-09-01,Initial Price
+PRC-00071,P006,Surf Excel Detergent 1kg,S03,201.16,2026-09-16,Promotional Discount
+PRC-00072,P006,Surf Excel Detergent 1kg,S04,190.0,2026-09-01,Initial Price
+PRC-00073,P006,Surf Excel Detergent 1kg,S04,184.78,2026-09-24,Seasonal Adjustment
+PRC-00074,P006,Surf Excel Detergent 1kg,S05,190.0,2026-09-01,Initial Price
+PRC-00075,P006,Surf Excel Detergent 1kg,S05,183.99,2026-09-14,Competitive Pricing
+PRC-00076,P007,Colgate MaxFresh 150g,S01,95.0,2026-09-01,Initial Price
+PRC-00077,P007,Colgate MaxFresh 150g,S01,94.82,2026-09-28,Promotional Discount
+PRC-00078,P007,Colgate MaxFresh 150g,S02,95.0,2026-09-01,Initial Price
+PRC-00079,P007,Colgate MaxFresh 150g,S02,101.68,2026-09-13,Seasonal Adjustment
+PRC-00080,P007,Colgate MaxFresh 150g,S02,91.48,2026-09-10,Festive Offer
+PRC-00081,P007,Colgate MaxFresh 150g,S03,95.0,2026-09-01,Initial Price
+PRC-00082,P007,Colgate MaxFresh 150g,S03,92.2,2026-09-30,Competitive Pricing
+PRC-00083,P007,Colgate MaxFresh 150g,S03,90.33,2026-09-08,Promotional Discount
+PRC-00084,P007,Colgate MaxFresh 150g,S04,95.0,2026-09-01,Initial Price
+PRC-00085,P007,Colgate MaxFresh 150g,S04,98.3,2026-09-28,Supplier Cost Change
+PRC-00086,P007,Colgate MaxFresh 150g,S05,95.0,2026-09-01,Initial Price
+PRC-00087,P007,Colgate MaxFresh 150g,S05,100.22,2026-09-28,Competitive Pricing
+PRC-00088,P007,Colgate MaxFresh 150g,S05,91.82,2026-09-28,Promotional Discount
+PRC-00089,P008,Tata Tea Gold 500g,S01,260.0,2026-09-01,Initial Price
+PRC-00090,P008,Tata Tea Gold 500g,S01,262.22,2026-09-22,Promotional Discount
+PRC-00091,P008,Tata Tea Gold 500g,S01,267.64,2026-09-11,Seasonal Adjustment
+PRC-00092,P008,Tata Tea Gold 500g,S02,260.0,2026-09-01,Initial Price
+PRC-00093,P008,Tata Tea Gold 500g,S02,263.9,2026-09-28,Seasonal Adjustment
+PRC-00094,P008,Tata Tea Gold 500g,S03,260.0,2026-09-01,Initial Price
+PRC-00095,P008,Tata Tea Gold 500g,S03,261.15,2026-09-17,Festive Offer
+PRC-00096,P008,Tata Tea Gold 500g,S03,253.49,2026-09-13,Festive Offer
+PRC-00097,P008,Tata Tea Gold 500g,S04,260.0,2026-09-01,Initial Price
+PRC-00098,P008,Tata Tea Gold 500g,S04,259.23,2026-09-25,Festive Offer
+PRC-00099,P008,Tata Tea Gold 500g,S05,260.0,2026-09-01,Initial Price
+PRC-00100,P008,Tata Tea Gold 500g,S05,273.04,2026-09-20,Promotional Discount
+PRC-00101,P009,Britannia Bread,S01,45.0,2026-09-01,Initial Price
+PRC-00102,P009,Britannia Bread,S01,43.88,2026-09-07,Promotional Discount
+PRC-00103,P009,Britannia Bread,S01,47.69,2026-09-27,Competitive Pricing
+PRC-00104,P009,Britannia Bread,S02,45.0,2026-09-01,Initial Price
+PRC-00105,P009,Britannia Bread,S02,43.68,2026-09-11,Seasonal Adjustment
+PRC-00106,P009,Britannia Bread,S02,46.52,2026-09-07,Supplier Cost Change
+PRC-00107,P009,Britannia Bread,S03,45.0,2026-09-01,Initial Price
+PRC-00108,P009,Britannia Bread,S03,44.22,2026-09-19,Festive Offer
+PRC-00109,P009,Britannia Bread,S04,45.0,2026-09-01,Initial Price
+PRC-00110,P009,Britannia Bread,S04,43.36,2026-09-07,Seasonal Adjustment
+PRC-00111,P009,Britannia Bread,S04,43.78,2026-09-23,Seasonal Adjustment
+PRC-00112,P009,Britannia Bread,S05,45.0,2026-09-01,Initial Price
+PRC-00113,P009,Britannia Bread,S05,43.43,2026-09-22,Promotional Discount
+PRC-00114,P009,Britannia Bread,S05,45.35,2026-09-29,Festive Offer
+PRC-00115,P010,Dettol Soap 75g,S01,42.0,2026-09-01,Initial Price
+PRC-00116,P010,Dettol Soap 75g,S01,40.99,2026-09-19,Supplier Cost Change
+PRC-00117,P010,Dettol Soap 75g,S01,44.15,2026-09-13,Supplier Cost Change
+PRC-00118,P010,Dettol Soap 75g,S02,42.0,2026-09-01,Initial Price
+PRC-00119,P010,Dettol Soap 75g,S02,41.19,2026-09-09,Competitive Pricing
+PRC-00120,P010,Dettol Soap 75g,S03,42.0,2026-09-01,Initial Price
+PRC-00121,P010,Dettol Soap 75g,S03,44.77,2026-09-18,Seasonal Adjustment
+PRC-00122,P010,Dettol Soap 75g,S04,42.0,2026-09-01,Initial Price
+PRC-00123,P010,Dettol Soap 75g,S04,42.54,2026-09-24,Competitive Pricing
+PRC-00124,P010,Dettol Soap 75g,S04,41.08,2026-09-10,Festive Offer
+PRC-00125,P010,Dettol Soap 75g,S05,42.0,2026-09-01,Initial Price
+PRC-00126,P010,Dettol Soap 75g,S05,42.01,2026-09-11,Promotional Discount
+PRC-00127,P010,Dettol Soap 75g,S05,43.83,2026-09-20,Supplier Cost Change

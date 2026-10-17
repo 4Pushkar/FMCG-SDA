@@ -1,0 +1,31 @@
+date,day_of_week,is_weekend,is_promotion,event_name,month,week_number
+2026-09-01,Tuesday,False,False,None,September,36
+2026-09-02,Wednesday,False,False,None,September,36
+2026-09-03,Thursday,False,False,None,September,36
+2026-09-04,Friday,False,False,None,September,36
+2026-09-05,Saturday,True,False,None,September,36
+2026-09-06,Sunday,True,False,None,September,36
+2026-09-07,Monday,False,False,None,September,37
+2026-09-08,Tuesday,False,True,Weekend Mega Sale,September,37
+2026-09-09,Wednesday,False,True,Weekend Mega Sale,September,37
+2026-09-10,Thursday,False,True,Weekend Mega Sale,September,37
+2026-09-11,Friday,False,False,None,September,37
+2026-09-12,Saturday,True,False,None,September,37
+2026-09-13,Sunday,True,False,None,September,37
+2026-09-14,Monday,False,False,None,September,38
+2026-09-15,Tuesday,False,True,Mid-Month Clearance,September,38
+2026-09-16,Wednesday,False,True,Mid-Month Clearance,September,38
+2026-09-17,Thursday,False,True,Mid-Month Clearance,September,38
+2026-09-18,Friday,False,False,None,September,38
+2026-09-19,Saturday,True,False,None,September,38
+2026-09-20,Sunday,True,False,None,September,38
+2026-09-21,Monday,False,False,None,September,39
+2026-09-22,Tuesday,False,True,Festival Special Offer,September,39
+2026-09-23,Wednesday,False,True,Festival Special Offer,September,39
+2026-09-24,Thursday,False,True,Festival Special Offer,September,39
+2026-09-25,Friday,False,False,None,September,39
+2026-09-26,Saturday,True,False,None,September,39
+2026-09-27,Sunday,True,False,None,September,39
+2026-09-28,Monday,False,False,None,September,40
+2026-09-29,Tuesday,False,False,None,September,40
+2026-09-30,Wednesday,False,False,None,September,40
